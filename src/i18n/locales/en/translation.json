@@ -1,0 +1,42 @@
+
+{
+    "mainpage":{
+        "greeting":"مرحبا بعودتك"
+    },
+    "AdduserInput":{
+        "person":{"label":"الاسم الاول","placeholder":"أدخل  اسم المستفيد"},
+        "father":{"label":"اسم الاب","placeholder":"أدخل  اسم الاب"},
+        "grand":{"label":"اسم الجد","placeholder":"أدخل  اسم الجد"},
+        "last":{"label":"اللقب","placeholder":"أدخل   اللقب"},
+        "phone":{"label":"رقم الهاتف","placeholder":"أدخل  رقم الهاتف"},
+        "birthday":{"label":"تاريخ الميلاد"},
+        "gender":{"label":"الجنس","male":"ذكر","fmale":"انثى"},
+        "Mstatus":{"label":"الحالة الاجتماعية","single":"عازب","marid":"مزوج"},
+        "add":"اضافة"
+        
+       },
+       
+       "userPage":{
+        "title":"المستفيدين",
+        "addNew":"إضافة مستفيد جديد",
+        "edit":"تعديل",
+        "delete":"حذف",
+        "label":"البحث عن مستفيد",
+        "table":{
+        "name":"الإسم",
+        "searchresult":"Try checking for typos or using complete words",
+        "searchresult1":"No results found for "
+        
+    }
+
+       },
+       "AdduserTitle":"البيانات الشخصية",
+       "user":"المواطنين",
+       "dashboard":"لوحة التجكم",
+       "banned":"لوحة التجكم",
+       "active":"تفعيل",
+       "Name":"الاسم",
+       "Status":"الحالة"
+
+
+}
